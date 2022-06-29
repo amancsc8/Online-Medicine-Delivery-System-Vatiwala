@@ -47,11 +47,11 @@ Run as Spring Boot APP
 # Images of Application:
 1. Home Page
 
-![Home Page]()
+![Home Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Home%20Page.png)
 
-2. Category Page
+2. Category : Allopathy
 
-![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Home%20Page.png)
+![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Allopathy.png)
 
 3. Category Page With Filters
 
