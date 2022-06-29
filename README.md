@@ -47,11 +47,11 @@ Run as Spring Boot APP
 # Images of Application:
 1. Home Page
 
-![Home Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/homepage.PNG)
+![Home Page]()
 
 2. Category Page
 
-![Category Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/category-page.PNG)
+![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Home%20Page.png)
 
 3. Category Page With Filters
 
