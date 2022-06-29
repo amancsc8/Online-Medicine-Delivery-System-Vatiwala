@@ -29,24 +29,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Backend :-
 
-#Features
-- Token Based User Authentication(JWT)
-- Product Search
-- Product Catalog
-- Payment Gateway (using Stripe) - TODO
-- Wishlist - TODO
-- Admin Console - TODO
-- Order Management - TODO
-- User Management - TODO
-- PDF Report Generation (Order Acknowledgment) - TODO
+## Using Tech:
 
-
-#Technologies:
-- Spring Boot
-- Mongo DB
-- Angular
-- Redis for Caching
-- Elastic Search
+* Java
+* Spring Boot
+* TypeScript
+* Angular
+* Oracle
+* Spring Data JPA
+* HTML5
+* CSS3
 
 #Images of Application:
 1. Home Page
