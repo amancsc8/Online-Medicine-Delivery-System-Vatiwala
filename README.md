@@ -53,17 +53,17 @@ Run as Spring Boot APP
 
 ![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Allopathy.png)
 
-3. Category Page With Filters
+3. Category : Homeopathy
 
-![Category Page With Filters](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/category-page-with-filters.PNG)
+![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Homeopathy.png)
 
-4. Product Page
+4. Category : Ayurveda Products
 
-![Product Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/product-page.PNG)
+![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Ayurveda%20Products.png)
 
-5. Product Page - Review Section
+5. Category : Covid Essentials
 
-![Product Page Review Section](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/product-page-review-section.PNG)
+![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Covid%20Essentials.png)
 
 6. Search Page
 ![Search Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/search-page.PNG)
