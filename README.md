@@ -65,5 +65,11 @@ Run as Spring Boot APP
 
 ![Category Page](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Covid%20Essentials.png)
 
-6. Search Page
-![Search Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/search-page.PNG)
+6. Cart
+![Cart](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Cart.png)
+
+7. Sign up
+![Sign up](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Sign%20up.png)
+
+8. Sign in
+![Sign in](https://github.com/amancsc8/Team-3-Online-Medicine-Delivery-System-Vatiwala/blob/main/Demo/Sign%20in.png)
