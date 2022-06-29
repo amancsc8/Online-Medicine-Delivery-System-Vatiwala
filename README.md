@@ -44,7 +44,7 @@ Run as Spring Boot APP
 * HTML5
 * CSS3
 
-#Images of Application:
+# Images of Application:
 1. Home Page
 
 ![Home Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/homepage.PNG)
@@ -67,5 +67,3 @@ Run as Spring Boot APP
 
 6. Search Page
 ![Search Page](https://github.com/SaiUpadhyayula/NgSpringShoppingStore/blob/master/src/main/resources/images/search-page.PNG)
-
-
