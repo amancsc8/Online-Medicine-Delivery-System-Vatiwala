@@ -36,19 +36,19 @@ Run as Spring Boot APP
 # Login credentials :
 
 ## Admin :
-1. Username : lucknow.hq@vatiwala.com
+* Username : lucknow.hq@vatiwala.com
    Password : 123
    
 ## Manager :
-1. Username : kanpur.hub@vatiwala.com
+* Username : kanpur.hub@vatiwala.com
    Password : 123
  
 ## Customer1 :
-1. Username : customer1@email.com
+* Username : customer1@email.com
    Password : 123
    
 ## Customer2 :
-1. Username : customer2@email.com
+* Username : customer2@email.com
    Password : 123
 
 # Using Tech:
