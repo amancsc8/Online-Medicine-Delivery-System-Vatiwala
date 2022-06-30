@@ -1,37 +1,46 @@
 # Team-3-Online-Medicine-Delivery-System-Vatiwala
 VatiWala is the Online Medicine Delivery System.
 
-# Frontend :-
+## About
+VatiWala is an Angular web application which is made on Angular using Spring Boot and Oracle as databse. 
+- Customers can select medicine items from the different categories, add them to their cart and place orders. 
+- Admins can add new medicine items, edit any existing item and manage customer's orders.
 
-## Development server
+## Frameworks/Tools used
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![](https://img.shields.io/badge/Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red) ![](https://img.shields.io/badge/oracle-ed1c24?style=for-the-badge&logo=oracle&logoColor=white)
 
-## Code scaffolding
+## Highlights
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Have written comments in code.
+- Used meaningful names for variables and methods.
+- Focused on code maintainability, readability and reusability.
 
-## Build
+## How to run
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Frontend
+1. Clone the repository
+2. Install all the dependencies: 
 
-## Running unit tests
+```sh
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. Run the angular application: 
 
-## Running end-to-end tests
+```sh
+ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Backend
 
-## Further help
+1. Open the backend project in Eclipse IDE.
+2. Change the configuration in application.properties acording to your oracle id and password. Try not to change the port number.
+3. Open the package com.zira.restaurant and choose the java file in it. And run the java file as Spring Boot App.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> ```Note: Try using the default port in both frontend as well as backend ```
 
-# Backend :-
 
-## Eclipse or Spring Tool Suite (STS)
-
-Run as Spring Boot APP
 
 # Login credentials :
 
